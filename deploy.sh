@@ -1,4 +1,4 @@
--#!/bin/sh      
+#!/bin/sh      
 ssh opencga@192.168.145.33 <<EOF        
   cd /opt/apps/iva/jenkins/
   git clone https://github.com/babelomics/iva.git iva                                                     │
