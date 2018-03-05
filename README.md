@@ -1,4 +1,4 @@
-afasd
+
 # Overview
 IVA is a generic Interactive Variant Analysis browser that can be used for the visualization of biological information from various data sources. IVA uses data from [OpenCGA](https://github.com/opencb/opencga) which is an OpenCB project.
 
