@@ -1,4 +1,4 @@
 #!/bin/sh      
-ssh opencga@192.168.145.33 <<EOF        
+ssh opencga@192.168.145.25 <<EOF        
  pwd
 EOF
